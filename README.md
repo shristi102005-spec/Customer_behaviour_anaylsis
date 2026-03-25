@@ -62,7 +62,7 @@ This project analyzes real-world transactional data to extract actionable insigh
 
 ```text
 Raw Data → Data Cleaning (Python) → Feature Engineering  
-→ SQL Analysis (PostgreSQL) → Visualization (Power BI).
+→ SQL Analysis (PostgreSQL) → Visualization (Power BI).```
 
 ---
 
