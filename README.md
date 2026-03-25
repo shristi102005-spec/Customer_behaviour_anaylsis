@@ -63,3 +63,9 @@ This project analyzes real-world transactional data to extract actionable insigh
 ```text
 Raw Data → Data Cleaning (Python) → Feature Engineering  
 → SQL Analysis (PostgreSQL) → Visualization (Power BI).
+
+## 🙌 Author
+
+Shristi 
+
+LinkedIn:https://www.linkedin.com/in/shristi-483363295?utm_source=share_via&utm_content=profile&utm_medium=member_android
