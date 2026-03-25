@@ -72,5 +72,4 @@ Raw Data → Data Cleaning (Python) → Feature Engineering
 🎓 B.Tech (Electronics Engineering - AI/ML Specialization)  
 
 🔗 LinkedIn: https://www.linkedin.com/in/shristi-483363295?utm_source=share_via&utm_content=profile&utm_medium=member_android  
-
-📧 Email: shristi102005@gmail.com
+📧 Email: shristi102005@gmail.com  
